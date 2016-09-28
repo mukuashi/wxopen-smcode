@@ -3,8 +3,24 @@
 <img src="https://cloud.githubusercontent.com/assets/876707/18773863/cca59fae-8185-11e6-9d7b-050ba646b456.png" width = "172" height = "150" alt="LOGO" align=center />
 
 官方简易教程：http://wxopen.notedown.cn
+
 简易教程：框架、组件、API、工具、Q&A、介绍、设计、运营、文档、Github打包下载
+
 官方已推出正式版本IDE，请前往下载：http://wxopen.notedown.cn/devtools/download.html
+
+官方地址(目前内测用户才能查看文档) https://mp.weixin.qq.com/wxopen/wawiki
+
+### 开发文档
+
+http://wxopen.notedown.cn/
+
+介绍 http://wxopen.notedown.cn/introduction
+
+设计 http://wxopen.notedown.cn/design
+
+运营 http://wxopen.notedown.cn/product
+
+开发 http://wxopen.notedown.cn/api
 
 
 ## 破解步骤
